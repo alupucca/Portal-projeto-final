@@ -1,0 +1,66 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.header-site {
+    background-image: url(fotos/encontro-444.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+
+
+}
+
+.espacamento{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.content-site {
+    padding-top: 50px;
+    padding-bottom:20px;
+    text-align: center;
+
+
+    
+}
+
+
+.encontro-site {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: #114317;
+    background: #daf2dd;
+   
+    
+
+    
+}
+
+.img-site{
+    background-image: url(fotos/encontro-449\ \(1\).jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    color:#ffffff;
+
+}
+.btn-encontro{
+   background:#daf2dd;
+   border-radius: 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-right: 10px;
+   padding-left: 10px;
+   
+}
+.mensagem-sucesso{
+    display: none;
+}
